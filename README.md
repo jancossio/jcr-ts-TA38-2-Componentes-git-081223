@@ -1,0 +1,1 @@
+# jcr-ts-TA38-2-Componentes-git-081223
