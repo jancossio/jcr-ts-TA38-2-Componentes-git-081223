@@ -1,0 +1,6 @@
+<div>
+    <h2>Lista de los contactos</h2>
+    @for (contacto of contactos; track $index) {
+        <p> {{$index+1}} | {{ contacto[0] }} | {{ contacto[1] }} | {{ contacto[2] }} | {{ contacto[3] }}</p>
+    }
+</div> 
